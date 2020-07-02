@@ -19,12 +19,17 @@ section {
 }
 
 section>h2 {
-    float: right;
+      float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     margin: 0;
+    width: 230px;
+    text-align: center;
+    font-style: Times;
+    font-size: 24px;
     font-weight: bold;
-    padding: 5px;
+    height: 45px;
+    padding-top: 10px;
 }
 
 section.s1>h2 {
